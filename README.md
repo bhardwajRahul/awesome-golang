@@ -91,6 +91,7 @@ _Veritabanı Sürücüleri_
 *   [chi](https://github.com/go-chi/chi) - `net/context` üzerine kurulu küçük, hızlı ve etkileyici bir HTTP router'ı.
 *   [gorilla/mux](https://github.com/gorilla/mux) - Golang için güçlü bir URL router ve dağıtıcı.
 *   [rpcx](https://github.com/smallnest/rpcx) - Alibaba Dubbo gibi dağıtık ve takılabilir bir RPC servis çatısı.
+*   [gofiber](https://gofiber.io/) - Express liked söz dizimi bir kütüphane.
 *   *...diğerlerini buraya ekleyin...*
 
 ## Araçlar (Tooling)
@@ -124,6 +125,7 @@ _Veritabanı Sürücüleri_
 * [Gin ile Web Uygulaması & Mikroservis](https://semaphoreci.com/community/tutorials/building-go-web-applications-and-microservices-using-gin)
 * [Go ile Docker Kullanımı](https://semaphoreci.com/community/tutorials/how-to-deploy-a-go-web-application-with-docker)
 * [Go WebAssembly ile Basit Hesap Makinesi](https://tutorialedge.net/golang/go-webassembly-tutorial/)
+* [Go Örnek 101](https://github.com/Hasan-Kilici/go-examples)
 * [Golang E-Ticaret Rehberi (Ponzu CMS)](https://snipcart.com/blog/golang-ecommerce-ponzu-cms-demo)
 
 🗃️ Veri Tabanı & Cache
