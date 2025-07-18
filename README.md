@@ -1,6 +1,5 @@
-Elbette, işte "Awesome Go" listesi için oluşturulan iskelet markdown şablonu, tamamen tek bir kod bloğu (` ``` `) içine alınmış şekilde:
 
-# Awesome Go - İskelet
+# Awesome Go 
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
