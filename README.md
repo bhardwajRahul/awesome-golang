@@ -1,5 +1,3 @@
-Of course, here is the English translation of the provided text.
-
 # Awesome Go
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
