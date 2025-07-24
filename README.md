@@ -39,6 +39,8 @@ _ORM and Database Tools_
 *   [ent](https://github.com/facebook/ent) - A simple yet powerful entity framework and ORM for Go.
 *   [SQLBoiler](https://github.com/volatiletech/sqlboiler) - A lightning-fast ORM generator, tailor-made for you from your database schema.
 *   [sqlc](https://sqlc.dev/)   - Compile SQL to type-safe code
+*   [FluentSQL](https://github.com/JiveGroup/FluentSQL) -  flexible and powerful SQL string builder
+  
 _Database Drivers_
 
 *   [**pgx**](https://github.com/jackc/pgx) (PostgreSQL) - A high-performance and full-featured driver and toolkit for PostgreSQL. It offers direct access to advanced PostgreSQL features (e.g., JSONB support) beyond the standard `database/sql` interface. It is the most recommended driver for modern projects.
