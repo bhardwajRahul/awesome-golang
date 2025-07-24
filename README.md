@@ -29,8 +29,7 @@ A curated list of awesome libraries, tools, and resources for the Go programming
 *   [**Echo**](https://github.com/labstack/echo) - Another popular high-performance, minimalist, and extensible framework. It features a powerful router, a rich set of middleware, and built-in support for template rendering. It is often mentioned alongside Gin and Fiber as one of the best minimalist frameworks.
 *   [**Chi**](https://github.com/go-chi/chi) - Stands out for being lightweight, idiomatic, and composable. The biggest advantage of `chi` is its full compatibility with Go's standard `net/http` package. This means you can use existing `net/http`-compatible middleware without any changes. It is one of the frameworks most faithful to Go's philosophy.
 *   [**Gorilla/Mux**](https://github.com/gorilla/mux) - One of the oldest and most established routers in Go. It is more of a powerful router and dispatcher than a full-fledged framework. It forms the basis of many large and legacy projects. It is known for its flexible routing rules and robustness. Although it is now community-managed, it is still very common.
-*   [**Revel**](https://github.com/revel/revel) - Unlike minimalist frameworks, this is a full-stack web framework that offers a "batteries-included" approach. It comes with its own template engine, router, and testing framework. With features like code generation and hot-reloading, it is more similar to frameworks like Ruby on Rails or Django.
-
+*   
 ## Database
 
 _ORM and Database Tools_
