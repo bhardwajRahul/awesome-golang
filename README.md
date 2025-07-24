@@ -72,7 +72,7 @@ _Database Drivers_
 *   [**godotenv**](https://github.com/joho/godotenv) - A very simple library that does one job very well: loading environment variables from `.env` files. It is often used to facilitate adherence to 12-factor app principles in development environments.
 *   [**envconfig**](https://github.com/kelseyhightower/envconfig) - Popular especially for containerized and cloud-native applications. It has a single purpose: to populate a Go struct directly from environment variables. It is very simple and effective to use.
 *   [**cleanenv**](https://github.com/ilyakaznacheev/cleanenv) - A configuration library that adopts "clean architecture" principles. It focuses on loading configuration from files and environment variables into a Go struct with clean and minimal code, using struct tags.
-*
+
 ## Logging
 
 *   [Zap](https://github.com/uber-go/zap) - A library for fast, structured, and leveled logging.
@@ -287,3 +287,5 @@ Your contributions and suggestions are always welcome! Please follow these steps
 3.  Make your changes and **Commit** them (`git commit -m 'feat: Add a new awesome library'`).
 4.  **Push** your branch (`git push origin feature/new-awesome-thing`).
 5.  Open a **Pull Request**.
+6. **Up A** reddit.
+
