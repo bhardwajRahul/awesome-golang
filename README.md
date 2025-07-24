@@ -287,5 +287,4 @@ Your contributions and suggestions are always welcome! Please follow these steps
 3.  Make your changes and **Commit** them (`git commit -m 'feat: Add a new awesome library'`).
 4.  **Push** your branch (`git push origin feature/new-awesome-thing`).
 5.  Open a **Pull Request**.
-6. **Up A** reddit.
-
+6. **Up A** [Reddit](https://www.reddit.com/r/golang/comments/1m7yj31/new_to_go_this_github_repo_is_the_ultimate/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).
